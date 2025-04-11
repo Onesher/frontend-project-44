@@ -3,3 +3,4 @@
 <a href="https://codeclimate.com/github/Onesher/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/0b8f36241b1b3fcd3bcf/maintainability" /></a>
 <script src="https://asciinema.org/a/8OzSg2IEW7YLaIIkWfPtl1405.js" id="asciicast-8OzSg2IEW7YLaIIkWfPtl1405" async="true"></script>
 <script src="https://asciinema.org/a/NgMUqvuFdjQWSQrTmBVdGMT4h.js" id="asciicast-NgMUqvuFdjQWSQrTmBVdGMT4h" async="true"></script>
+<script src="https://asciinema.org/a/oXhy9yqnerMtR40351EkbUceq.js" id="asciicast-oXhy9yqnerMtR40351EkbUceq" async="true"></script>
